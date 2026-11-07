@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/tajweed-php-tafkhim-tarqiq-engine",
+  "description": "Tafkhim Pharyngealization & Ra/Lam Allophone Analyzer (محرك التفخيم والترقيق وأحكام الراء ولام لفظ الجلالة)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
